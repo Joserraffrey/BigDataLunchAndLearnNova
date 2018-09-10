@@ -1,0 +1,16 @@
+sqoop import --connect "jdbc:sqlserver://joselalnovasql.database.windows.net;database=AdventureWorksLT" \
+--username sqladmin \
+--password webeSP123@ \
+--driver com.microsoft.sqlserver.jdbc.SQLServerDriver \
+--table "SalesLT.Customer" \
+--target-dir "sqlserver_import/customer" \
+--split-by "CustomerID"
+
+
+sqoop import --connect "jdbc:sqlserver://joselalnovasql.database.windows.net;database=AdventureWorksLT" \
+--username sqladmin \
+--password webeSP123@ \
+--driver com.microsoft.sqlserver.jdbc.SQLServerDriver \
+--table "SalesLT.SalesOrderDetail" \
+--target-dir "sqlserver_import/salesorderdetail" \
+--split-by "SalesOrderID"

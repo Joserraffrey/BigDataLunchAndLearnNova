@@ -1,0 +1,418 @@
+﻿CustomerID,AddressID,AddressType,AddressLine1,AddressLine2,City,StateProvince,CountryRegion,PostalCode
+30018,9,Shipping,8713 Yosemite Ct.,NULL,Bothell,Washington,United States,98011
+29545,11,Shipping,1318 Lasalle Street,NULL,Bothell,Washington,United States,98011
+29954,25,Shipping,9178 Jumping St.,NULL,Dallas,Texas,United States,75201
+29897,28,Shipping,9228 Via Del Sol,NULL,Phoenix,Arizona,United States,85004
+29503,32,Shipping,26910 Indela Road,NULL,Montreal,Quebec,Canada,H1Y 2H5
+29559,185,Shipping,2681 Eagle Peak,NULL,Bellevue,Washington,United States,98004
+29816,297,Shipping,7943 Walnut Ave,NULL,Renton,Washington,United States,98055
+29770,445,Main Office,6388 Lake City Way,NULL,Burnaby,British Columbia,Canada,V5A 3A6
+29813,446,Main Office,52560 Free Street,NULL,Toronto,Ontario,Canada,M4B 1V7
+29627,447,Main Office,22580 Free Street,NULL,Toronto,Ontario,Canada,M4B 1V7
+29567,448,Main Office,2575 Bloor Street East,NULL,Toronto,Ontario,Canada,M4B 1V6
+29807,449,Main Office,Station E,NULL,Chalk Riber,Ontario,Canada,K0J 1J0
+29959,450,Main Office,575 Rue St Amable,NULL,Quebec,Quebec,Canada,G1R
+29934,451,Main Office,2512-4th Ave Sw,NULL,Calgary,Alberta,Canada,T2P 2G8
+29803,452,Main Office,55 Lakeshore Blvd East,NULL,Toronto,Ontario,Canada,M4B 1V6
+29964,453,Main Office,6333 Cote Vertu,NULL,Montreal,Quebec,Canada,H1Y 2H7
+29928,454,Main Office,3255 Front Street West,NULL,Toronto,Ontario,Canada,M4B 1V6
+29797,455,Main Office,2550 Signet Drive,NULL,Weston,Ontario,Canada,M9V 4W3
+29699,456,Main Office,6777 Kingsway,NULL,Burnaby,British Columbia,Canada,V5H 3Z7
+29596,458,Main Office,600 Slater Street,NULL,Ottawa,Ontario,Canada,K4B 1S2
+29705,459,Main Office,25575 The Queensway,NULL,Etobicoke,Ontario,Canada,M9W 3P3
+29918,460,Main Office,2521 McPherson Street,NULL,Markham,Ontario,Canada,L3S 3K2
+29677,461,Main Office,2560 Bay Street,NULL,Toronto,Ontario,Canada,M4B 1V7
+29946,462,Main Office,630 University Avenue,NULL,Toronto,Ontario,Canada,M4B 1V7
+29950,463,Main Office,992 St Clair Ave East,NULL,Toronto,Ontario,Canada,M4B 1V7
+30067,464,Main Office,"99, Rue Saint-pierre",NULL,Pnot-Rouge,Quebec,Canada,J1E 2T7
+29671,465,Main Office,25245 Rue Sherbrooke Ouest,NULL,Montreal,Quebec,Canada,H1Y 2H5
+29794,466,Main Office,655-4th Ave S.W.,NULL,Calgary,Alberta,Canada,T2P 2G8
+29541,467,Main Office,25900-700-9th Ave S.W.,NULL,Calgary,Alberta,Canada,T2P 2G8
+29666,468,Main Office,Po Box 83270,NULL,Vancouver,British Columbia,Canada,V7L 4J4
+29629,469,Main Office,400-25155 West Pender St,NULL,Vancouver,British Columbia,Canada,V7L 4J4
+29639,470,Main Office,2511 Baker Road,NULL,Toronto,Ontario,Canada,M4B 1V7
+29577,471,Main Office,770 Notre Datme Quest Bureau 800,NULL,Montreal,Quebec,Canada,H1Y 2H7
+29711,472,Main Office,250551 Shellbridge Way,NULL,Richmond,British Columbia,Canada,V6B 3P7
+29714,473,Main Office,595 Burning Street,NULL,Vancouver,British Columbia,Canada,V7L 4J4
+29939,475,Main Office,2512-410th Avenue S.W.,NULL,Calgary,Alberta,Canada,T2P 2G8
+29892,476,Main Office,258 King Street East,NULL,Toronto,Ontario,Canada,M4B 1V7
+29988,478,Main Office,2545 King Street West,NULL,Toronto,Ontario,Canada,M4B 1V7
+29539,480,Main Office,25 First Canadian Place,NULL,Toronto,Ontario,Canada,M4B 1V5
+29876,481,Main Office,65 Gamelin Street,NULL,Hull,Quebec,Canada,8Y
+29994,482,Main Office,2500 University Avenue,NULL,Toronto,Ontario,Canada,M4B 1V5
+29881,483,Main Office,955 Green Valley Crescent,NULL,Ottawa,Ontario,Canada,K4B 1S1
+29870,484,Main Office,2510 Crew Court,NULL,Montreal,Quebec,Canada,H1Y 2H8
+30000,485,Main Office,"9900-6400 Boul, Taschereau",NULL,Brossard,Quebec,Canada,J4Z 1R4
+30098,486,Main Office,600 Boul. Rene-levesque Ouest,NULL,Montreal,Quebec,Canada,H1Y 2H7
+29864,487,Main Office,9259 - 1110th Avenue Sw,NULL,Calgary,Alberta,Canada,T2P 2G8
+29608,488,Main Office,45259 Canada Way,NULL,Burnaby,British Columbia,Canada,V5G 4S4
+30093,489,Main Office,9960 King Street E.,NULL,Toronto,Ontario,Canada,M4B 1V5
+29780,490,Main Office,9979 Bayview Drive,NULL,Barrie,Ontario,Canada,L4N
+29625,491,Main Office,20225 Lansing Ave,NULL,Montreal,Quebec,Canada,H1Y 2H7
+30087,492,Main Office,"99954 Boul. Laurier, Local 060, Place",NULL,Sainte-Foy,Quebec,Canada,G1W
+29692,494,Main Office,Box 99354 300 Union Street,NULL,Saint John,Brunswick,Canada,E2P 1E3
+29530,495,Main Office,Suite 800 2530 Slater Street,NULL,Ottawa,Ontario,Canada,K4B 1T7
+30021,496,Main Office,Suite 500 995 W. 11th Avenue,NULL,Mississauga,Ontario,Canada,L5A 1H6
+29698,497,Main Office,#9900 2700 Production Way,NULL,Burnaby,British Columbia,Canada,V5A 4X1
+29548,498,Main Office,25537 Hillside Avenue,NULL,Victoria,British Columbia,Canada,V8V
+30115,499,Main Office,Suite 2502 410 Albert Street,NULL,Waterloo,Ontario,Canada,N2V
+29558,500,Main Office,5700 Explorer Drive,NULL,Mississauga,Ontario,Canada,L4W 5J3
+29789,501,Main Office,965 De La Gauchetiere West,NULL,Montreal,Quebec,Canada,H1Y 2H8
+29910,502,Main Office,No. 25400 10665 Jasper Avenue,NULL,Edmonton,Alberta,Canada,T5
+29620,503,Main Office,P.O. Box 44000,NULL,Winnipeg,Manitoba,Canada,R3
+29515,504,Main Office,Suite 99320 255 - 510th Avenue S.W.,NULL,Calgary,Alberta,Canada,T2P 2G8
+29905,505,Main Office,"6400, 888 - 3rd Avenue",NULL,Calgary,Alberta,Canada,T2P 2G8
+30053,507,Main Office,975 Princess Street,NULL,Kingston,Ontario,Canada,7L
+29900,508,Main Office,2900 - 25055 Dunning Street,NULL,Vancouver,British Columbia,Canada,V7L 4J4
+29680,509,Main Office,Suite 25800 3401 - 10810th Avenue,NULL,Surrey,British Columbia,Canada,V3T 4W3
+30058,510,Main Office,750 Philip Street,NULL,Waterloo,Ontario,Canada,N2V
+29852,511,Main Office,"Bureau 9900 825, Avenue Querbes",NULL,Outremont,Quebec,Canada,H1Y 2G5
+29527,512,Main Office,700 Bureau Road,NULL,Montreal,Quebec,Canada,H1Y 2H7
+29557,513,Main Office,"253711 Mayfield Place, Unit 150",NULL,Richmond,British Columbia,Canada,V6B 3P7
+29576,514,Main Office,63 West Beaver Creek,NULL,Richmond Hill,Ontario,Canada,L4E 3M5
+29879,515,Main Office,9900 Ronson Drive,NULL,Etobicoke,Ontario,Canada,M9W 3P3
+29601,516,Main Office,251 Indell Lane,NULL,Brampton,Ontario,Canada,L6W 2T7
+29734,517,Main Office,2573 Dufferin Street,NULL,Toronto,Ontario,Canada,M4B 1V5
+29603,518,Main Office,995 Crescent,NULL,Richmond Hill,Ontario,Canada,L4E 3M5
+29544,519,Main Office,2500-622 5th Ave Sw,NULL,Calgary,Alberta,Canada,T2P 2G8
+29740,520,Main Office,6700 Boul Taschereau,NULL,Brossard,Quebec,Canada,J4Z 1C5
+30083,521,Main Office,55 Standish Court,NULL,Mississauga,Ontario,Canada,L5B 3V4
+29766,522,Main Office,"43251 Viking Way, Unit 130",NULL,Richmond,British Columbia,Canada,V6B 3P7
+30042,523,Main Office,46990 Viking Way,NULL,Richmond,British Columbia,Canada,V6B 3P7
+29895,524,Main Office,9693 Louis H Lafontaine,NULL,Ville De'anjou,Quebec,Canada,J1G 2R3
+29761,525,Main Office,69251 Creditview Road,NULL,Mississauga,Ontario,Canada,L5B 3V4
+30048,526,Main Office,251420a 170th Street,NULL,Edmonton,Alberta,Canada,T5
+29499,527,Main Office,252851 Rowan Place,NULL,Richmond,British Columbia,Canada,V6B 3P7
+29755,528,Main Office,5990 Avebury Road,NULL,Mississauga,Ontario,Canada,L5B 3V4
+29614,529,Main Office,254480 River Rd,NULL,Richmond,British Columbia,Canada,V6B 3P7
+30016,531,Main Office,"5th Floor, 79 Place D'armes",NULL,Kingston,Ontario,Canada,7L
+29785,533,Main Office,4400 March Road,NULL,Kanata,Ontario,Canada,K2L 1H5
+30074,534,Main Office,Depot 80,NULL,Sillery,Quebec,Canada,G1T
+30010,535,Main Office,250 Kingsbridge Garden Circle,NULL,Mississauga,Ontario,Canada,L5B 3V4
+30007,536,Main Office,No. 2000-25080 Beaver Hall Hill,NULL,Quebec,Quebec,Canada,G1R
+29494,537,Main Office,No. 25800-130 King Street West,NULL,Toronto,Ontario,Canada,M4B 1V5
+29911,538,Main Office,25 Danger Street West,Floor 7,Toronto,Ontario,Canada,M4B 1V5
+29855,539,Main Office,"6th Floor, 25st Canadian Place",NULL,Toronto,Ontario,Canada,M4B 1V5
+29510,540,Main Office,254 Colonnade Road,NULL,Nepean,Ontario,Canada,K2J 2W5
+29503,541,Main Office,25981 College Street,NULL,Montreal,Quebec,Canada,H1Y 2H5
+30029,542,Main Office,5 place Ville-Marie,NULL,Montreal,Quebec,Canada,H1Y 2H7
+29750,543,Main Office,6030 Conroy Road,NULL,Ottawa,Ontario,Canada,K4B 1S3
+29649,544,Main Office,"30025 Wayburne Drive, Suite 275",NULL,Burnaby,British Columbia,Canada,V5G 4W1
+30037,545,Main Office,999 West Georgia St.,NULL,Vancouver,Ontario,Canada,V5T 1Y9
+29863,546,Main Office,"250333 Southport Road, S.W.",NULL,Calgary,Alberta,Canada,T2P 2G8
+29840,547,Main Office,7000 Victoria Park Avenue,NULL,Toronto,Ontario,Canada,M4B 1V4
+29969,548,Main Office,63 Free St.,NULL,Toronto,Ontario,Canada,M4B 1V4
+29971,549,Main Office,609 Evans Avenue,NULL,Toronto,Ontario,Canada,M4B 1V4
+30108,550,Main Office,2520 Flanders Road,NULL,Toronto,Ontario,Canada,M4B 1V4
+29832,551,Main Office,"32605 West 252 Mile Road, Suite 250",NULL,Aurora,Ontario,Canada,L4G 7N6
+29831,552,Main Office,"25730, boul. St-Régis",NULL,Dorval,Quebec,Canada,H9P 1H1
+29830,553,Main Office,"253131 Lake Frasier Drive, Office No. 2",NULL,Calgary,Alberta,Canada,T2P 2G8
+29983,554,Main Office,9984 Wellington Street,NULL,Ottawa,Ontario,Canada,K4B 1S2
+29722,555,Main Office,"9950 Ferrand Drive, 9th Floor",NULL,Toronto,Ontario,Canada,M4B 1V4
+29824,556,Main Office,990th Floor 700 De La GauchetiSre Ou,NULL,Montreal,Quebec,Canada,H1Y 2H3
+29822,557,Main Office,"660 Saint-Jacques, Bureau 400",NULL,Montreal,Quebec,Canada,H1Y 2H8
+29730,558,Main Office,"67255 - 8th Street N.E., Suite 350",NULL,Calgary,Alberta,Canada,T2P 2G8
+29637,559,Main Office,12345 Sterling Avenue,NULL,Irving,Texas,United States,75061
+29772,560,Main Office,800 Interchange Blvd.,Suite 2501,Austin,Texas,United States,78701
+29956,561,Main Office,90025 Sterling St,NULL,Irving,Texas,United States,75061
+29569,562,Main Office,2505 Gateway Drive,NULL,North Sioux City,South Dakota,United States,57049
+29962,563,Main Office,74400 France Avenue South,NULL,Edina,Minnesota,United States,55436
+29774,564,Main Office,509 Nafta Boulevard,NULL,Laredo,Texas,United States,78040
+29967,565,Main Office,25149 Howard Dr,NULL,West Chicago,Illinois,United States,60185
+29930,566,Main Office,63 W Monroe,NULL,Chicago,Illinois,United States,60610
+29702,567,Main Office,Corporate Office,NULL,Garland,Texas,United States,75040
+29708,569,Main Office,Sapp Road West,NULL,Round Rock,Texas,United States,78664
+29920,570,Main Office,52500 Liberty Way,NULL,Fort Worth,Texas,United States,76102
+29674,571,Main Office,25550 Executive Dr,NULL,Elgin,Illinois,United States,60120
+29948,572,Main Office,P.O. Box 6256916,NULL,Dallas,Texas,United States,75201
+29668,573,Main Office,25269 Wood Dale Rd.,NULL,Wood Dale,Illinois,United States,60191
+29954,574,Main Office,Po Box 8259024,NULL,Dallas,Texas,United States,75201
+29663,575,Main Office,42500 W 76th St,NULL,Chicago,Illinois,United States,60610
+29583,576,Main Office,4255 East Lies Road,NULL,Carol Stream,Illinois,United States,60188
+29574,577,Main Office,2500 North Stemmons Freeway,NULL,Dallas,Texas,United States,75201
+29646,578,Main Office,220 Mercy Drive,NULL,Garland,Texas,United States,75040
+29654,579,Main Office,25 N State St,NULL,Chicago,Illinois,United States,60610
+29937,580,Main Office,2509 W. Frankford,NULL,Carrollton,Texas,United States,75006
+29553,581,Main Office,Po Box 8035996,NULL,Dallas,Texas,United States,75201
+29943,582,Main Office,5700 Legacy Dr,NULL,Plano,Texas,United States,75074
+29884,583,Main Office,625 W Jackson Blvd. Unit 2502,NULL,Chicago,Illinois,United States,60610
+29591,584,Main Office,250880 Baur Blvd,NULL,Saint Louis,Missouri,United States,63103
+29593,585,Main Office,Noah Lane,NULL,Chicago,Illinois,United States,60610
+29872,586,Main Office,6030 Robinson Road,NULL,Jefferson City,Missouri,United States,65101
+30095,587,Main Office,25500 Old Spanish Trail,NULL,Houston,Texas,United States,77003
+29866,588,Main Office,"99828 Routh Street, Suite 825",NULL,Dallas,Texas,United States,75201
+30090,589,Main Office,"One Dancing, Rr No. 25",Box 8033,Round Rock,Texas,United States,78664
+29782,590,Main Office,9995 West Central Entrance,NULL,Duluth,Minnesota,United States,55802
+29535,591,Main Office,48255 I-10 E. @ Eastpoint Blvd.,NULL,Baytown,Texas,United States,77520
+29570,592,Main Office,9903 Highway 6 South,NULL,Houston,Texas,United States,77003
+29523,593,Main Office,2345 North Freeway,NULL,Houston,Texas,United States,77003
+30023,594,Main Office,123 W. Lake Ave.,NULL,Peoria,Illinois,United States,61606
+30118,595,Main Office,660 Lindbergh,NULL,Saint Louis,Missouri,United States,63103
+30117,596,Main Office,72540 Blanco Rd.,NULL,San Antonio,Texas,United States,78204
+29792,597,Main Office,99450 Highway 59 North,NULL,Humble,Texas,United States,77338
+30111,598,Main Office,455 256th St.,NULL,Moline,Illinois,United States,61265
+29524,599,Main Office,70 N.W. Plaza,NULL,Saint Ann,Missouri,United States,63074
+29906,600,Main Office,25095 W. Florissant,NULL,Ferguson,Missouri,United States,63135
+30055,601,Main Office,6996 South Lindbergh,NULL,Saint Louis,Missouri,United States,63103
+29902,602,Main Office,6425 Nw Loop 410,NULL,San Antonio,Texas,United States,78204
+30061,603,Main Office,9500b E. Central Texas Expressway,NULL,Killeen,Texas,United States,76541
+29854,604,Main Office,1200 First Ave.,NULL,Joliet,Illinois,United States,60433
+29659,605,Main Office,7760 N. Pan Am Expwy,NULL,San Antonio,Texas,United States,78204
+29651,606,Main Office,99433 S. Greenbay Rd.,NULL,Racine,Wisconsin,United States,53182
+29732,607,Main Office,25220 Airline Road,NULL,Corpus Christi,Texas,United States,78404
+29616,608,Main Office,25306 Harvey Rd.,NULL,College Station,Texas,United States,77840
+29769,609,Main Office,3900 S. 997th St.,NULL,Milwaukee,Wisconsin,United States,53202
+29738,610,Main Office,44025 W. Empire,NULL,Denby,South Dakota,United States,57716
+29764,611,Main Office,23025 S.W. Military Rd.,NULL,San Antonio,Texas,United States,78204
+29743,612,Main Office,Ring Plaza,NULL,Norridge,Illinois,United States,60706
+29758,613,Main Office,Lakeline Mall,NULL,Cedar Park,Texas,United States,78613
+30046,614,Main Office,Town East Center,NULL,Mesquite,Texas,United States,75149
+30008,617,Main Office,Johnson Creek,NULL,Johnson Creek,Wisconsin,United States,53038
+29492,618,Main Office,Blue Ridge Mall,NULL,Kansas City,Missouri,United States,64106
+29508,619,Main Office,First Colony Mall,NULL,Sugar Land,Texas,United States,77478
+30003,620,Main Office,Horizon Outlet,NULL,Woodbury,Minnesota,United States,55125
+29486,621,Main Office,Tanger Factory,NULL,Branch,Minnesota,United States,55056
+29859,622,Main Office,Management Mall,NULL,San Antonio,Texas,United States,78204
+29850,623,Main Office,Ohms Road,NULL,Houston,Texas,United States,77003
+30032,624,Main Office,Factory Merchants,NULL,Branson,Missouri,United States,65616
+29848,625,Main Office,Cedar Creek Stores,NULL,Mosinee,Wisconsin,United States,54455
+30035,626,Main Office,Lone Star Factory,NULL,La Marque,Texas,United States,77568
+30039,627,Main Office,Sports Stores @ Tuscola,NULL,Tuscola,Illinois,United States,61953
+29861,628,Main Office,City Center,NULL,Minneapolis,Minnesota,United States,55402
+29974,629,Main Office,St. Louis Marketplace,NULL,Saint Louis,Missouri,United States,63103
+30106,630,Main Office,Lincoln Square,NULL,Arlington,Texas,United States,76010
+29827,631,Main Office,Kansas City Factory Outlet,NULL,Odessa,Missouri,United States,64076
+29819,633,Main Office,Medford Outlet Center,NULL,Medford,Minnesota,United States,55049
+29635,634,Main Office,Ward Parkway Center,NULL,Kansas City,Missouri,United States,64106
+29546,635,Main Office,"93-2501, Blackfriars Road,",NULL,London,England,United Kingdom,SE1 8HL
+29776,636,Main Office,"Science Park South, Birchwood",Stanford House,Warrington,England,United Kingdom,WA3 7BH
+29932,637,Main Office,"Phoenix Way, Cirencester",NULL,Gloucestershire,England,United Kingdom,GL7 1RY
+29926,638,Main Office,255 Irving Street,NULL,London,England,United Kingdom,C2H 7AU
+29922,639,Main Office,"Garamonde Drive, Wymbush",PO Box 4023,Milton Keynes,England,United Kingdom,MK8 8ZD
+30072,640,Main Office,251 The Metro Center,NULL,Wokingham,England,United Kingdom,RG41 1QW
+29952,641,Main Office,Bradford,NULL,W. York,England,United Kingdom,BD1 4SJ
+29796,642,Main Office,Galashiels,NULL,Liverpool,England,United Kingdom,L4 4HB
+29644,643,Main Office,Banbury,NULL,Oxon,England,United Kingdom,OX16 8RS
+29713,644,Main Office,Bradford,"Raven House, Kingsgate",W. York,England,United Kingdom,BD1 4SJ
+29941,645,Main Office,"Garamonde Drive, Wymbush",P.O. Box 803,Milton Keynes,England,United Kingdom,MK8 8ZD
+29990,646,Main Office,"Butterfield Hse, 7-251 Chapel St",NULL,Lancaster,England,United Kingdom,LA1 1LN
+29874,647,Main Office,Wade Road,NULL,Basingstoke Hants,England,United Kingdom,RG24 8PL
+29868,648,Main Office,"586 Fulham Road,",NULL,London,England,United Kingdom,SW6 SBY
+29612,649,Main Office,Knaves Beech Ind.,NULL,High Wycombe,England,United Kingdom,HP10 9QY
+29778,650,Main Office,"Elmhurst Road, Goring",NULL,Reading,England,United Kingdom,RG7 5H7
+30025,651,Main Office,"New Millhouse, 2583 Milton Park",NULL,Abingdon,England,United Kingdom,OX14 4SE
+30019,652,Main Office,Wymbush,NULL,Milton Keynes,England,United Kingdom,MK8 8DF
+30113,653,Main Office,Burgess Hill,Edward Way,West Sussex,England,United Kingdom,RH15 9UD
+29908,654,Main Office,308-3250 Casting Road,NULL,York,England,United Kingdom,Y024 1GF
+29904,655,Main Office,Wharfdale Road,NULL,Berkshire,England,United Kingdom,RG11 5TP
+29851,657,Main Office,Unit 99a Battery Retail Pk,NULL,Birmingham,England,United Kingdom,B29 6SL
+29618,658,Main Office,Ellesfield Ave,NULL,Bracknell,England,United Kingdom,RG12 8TB
+29736,659,Main Office,Warrington Ldc Unit 25/2,NULL,Woolston,England,United Kingdom,WA1 4SY
+29741,660,Main Office,"6 The Farm, Liberty Road",NULL,Maidenhead,England,United Kingdom,SL67RJ
+30044,661,Main Office,725a The Arches,NULL,Berks,England,United Kingdom,SL4 1RH
+30050,662,Main Office,Paramount House,NULL,London,England,United Kingdom,W1N 9FA
+29615,663,Main Office,2524 Barlby Road,NULL,London,England,United Kingdom,W10 6BL
+29587,664,Main Office,99-3 Forest Works,NULL,London,England,United Kingdom,E17 6JF
+30005,665,Main Office,46-44 Albemarle Street,NULL,London,England,United Kingdom,W1X3SE
+29857,666,Main Office,399 Clearing Green,NULL,London,England,United Kingdom,EC1R 0DU
+30030,667,Main Office,997b Tradescant Road,NULL,London,England,United Kingdom,SW8 1XD
+29860,668,Main Office,2574 Milton Park,NULL,Oxford,England,United Kingdom,OX14 4SE
+30102,669,Main Office,"Internet House, 3399 Science Park",NULL,Cambridge,England,United Kingdom,CB4 4BZ
+30104,670,Main Office,"7 Garden House Cloisters, 8 Batters",NULL,London,England,United Kingdom,SW8 4BG
+29978,671,Main Office,"25 Hartfield Road, Wimbledon",NULL,London,England,United Kingdom,SW19 3RU
+29980,672,Main Office,"99 Dean Street, Soho",NULL,London,England,United Kingdom,W1V 5RN
+29985,673,Main Office,"Park House-4th Floor, 2516 Park St.",NULL,London,England,United Kingdom,W1Y 3RA
+29955,756,Main Office,855 East Main Avenue,NULL,Zeeland,Michigan,United States,49464
+29655,774,Main Office,9920 North Telegraph Rd.,NULL,Pontiac,Michigan,United States,48342
+29891,775,Main Office,46460 West Oaks Drive,NULL,Novi,Michigan,United States,48375
+29554,776,Main Office,997000 Telegraph Rd.,NULL,Southfield,Michigan,United States,48034
+29688,785,Main Office,399700 John R. Rd.,NULL,Madison Heights,Michigan,United States,48071
+29536,786,Main Office,6789 Warren Road,NULL,Westland,Michigan,United States,48185
+29528,788,Main Office,2533 Eureka Rd.,NULL,Southgate,Michigan,United States,48195
+29590,789,Main Office,250000 Eight Mile Road,NULL,Detroit,Michigan,United States,48226
+29517,794,Main Office,998 Forest Road,NULL,Saginaw,Michigan,United States,48601
+29684,795,Main Office,99800 Tittabawasee Rd.,NULL,Saginaw,Michigan,United States,48601
+29600,797,Main Office,678 Eastman Ave.,NULL,Midland,Michigan,United States,48640
+29533,801,Main Office,Horizon Outlet Center,NULL,Holland,Michigan,United States,49423
+29765,806,Main Office,Horizon Outlet Center,NULL,Monroe,Michigan,United States,98272
+29566,810,Main Office,Redford Plaza,NULL,Redford,Michigan,United States,48239
+29973,825,Main Office,Port Huron,NULL,Port Huron,Michigan,United States,48060
+30109,826,Main Office,Kensington Valley Shops,NULL,Howell,Michigan,United States,48843
+29773,832,Main Office,2251 Elliot Avenue,NULL,Seattle,Washington,United States,98104
+29816,833,Main Office,3207 S Grady Way,NULL,Renton,Washington,United States,98055
+29545,834,Main Office,99300 223rd Southeast,NULL,Bothell,Washington,United States,98011
+29810,835,Main Office,259826 Russell Rd. South,NULL,Kent,Washington,United States,98031
+29775,836,Main Office,35525-9th Street Sw,NULL,Puyallup,Washington,United States,98371
+29806,837,Main Office,640 South 994th St. W.,NULL,Billings,Montana,United States,59101
+29931,838,Main Office,25300 Biddle Road,NULL,Medford,Oregon,United States,97504
+29800,839,Main Office,Gateway,NULL,Portland,Oregon,United States,97205
+29925,840,Main Office,Great Northwestern,NULL,North Bend,Washington,United States,98045
+29585,841,Main Office,Washington Square,NULL,Portland,Oregon,United States,97205
+29921,842,Main Office,258101 Nw Evergreen Parkway,NULL,Beaverton,Oregon,United States,97005
+29632,843,Main Office,253950 N.E. 178th Place,NULL,Woodinville,Washington,United States,98072
+30071,844,Main Office,755 Nw Grandstand,NULL,Issaquah,Washington,United States,98027
+30070,845,Main Office,22571 South 2500 East,NULL,Idaho Falls,Idaho,United States,83402
+29953,846,Main Office,257700 Ne 76th Street,NULL,Redmond,Washington,United States,98052
+30064,847,Main Office,25102 Springwater,NULL,Wenatchee,Washington,United States,98801
+29582,848,Main Office,Bldg. 9n/99298,NULL,Redmond,Washington,United States,98052
+29580,849,Main Office,4251 First Avenue,NULL,Seattle,Washington,United States,98104
+29645,850,Main Office,558 S 6th St,NULL,Klamath Falls,Oregon,United States,97601
+29717,851,Main Office,994 Sw Cherry Park Rd,NULL,Troutdale,Oregon,United States,97060
+29936,852,Main Office,25718 Se Sunnyside Rd,NULL,Clackamas,Oregon,United States,97015-6403
+29550,853,Main Office,567 Sw Mcloughlin Blvd,NULL,Milwaukie,Oregon,United States,97222
+29942,854,Main Office,490 Ne 4th St,NULL,Renton,Washington,United States,98055
+29890,855,Main Office,15 East Main,NULL,Port Orchard,Washington,United States,98366
+29991,856,Main Office,3025 E Waterway Blvd,NULL,Shelton,Washington,United States,98584
+29885,857,Main Office,7990 Ocean Beach Hwy.,NULL,Longview,Washington,United States,98632
+29873,858,Main Office,2345 West Spencer Road,NULL,Lynnwood,Washington,United States,98036
+29997,859,Main Office,1050 Oak Street,NULL,Seattle,Washington,United States,98104
+29867,860,Main Office,4927 S Meridian Ave Ste D,NULL,Puyallup,Washington,United States,98371
+29559,861,Main Office,25915 140th Ave Ne,NULL,Bellevue,Washington,United States,98004
+29611,862,Main Office,3307 Evergreen Blvd,Ste 1071,Washougal,Washington,United States,98671
+29622,863,Main Office,2507 Pacific Ave S,NULL,Tacoma,Washington,United States,98403
+29571,864,Main Office,67 Rainer Ave S,NULL,Renton,Washington,United States,98055
+29689,865,Main Office,750 Lakeway Dr,NULL,Bellingham,Washington,United States,98225
+30024,866,Main Office,2528 Meridian E,NULL,Puyallup,Washington,United States,98371
+29695,867,Main Office,48995 Evergreen Wy.,NULL,Everett,Washington,United States,98201
+30018,868,Main Office,25111 228th St Sw,NULL,Bothell,Washington,United States,98011
+29787,869,Main Office,2583 Se 272nd St,NULL,Kent,Washington,United States,98031
+30112,870,Main Office,409 S. Main Ste. 25,NULL,Ellensburg,Washington,United States,98926
+29606,871,Main Office,2502 Evergreen Ste E,NULL,Everett,Washington,United States,98201
+29907,872,Main Office,755 W Washington Ave Ste D,NULL,Sequim,Washington,United States,98382
+29903,874,Main Office,2550 Ne Sandy Blvd,NULL,Portland,Oregon,United States,97205
+29683,875,Main Office,2540 Dell Range Blvd,NULL,Cheyenne,Wyoming,United States,82001
+29898,876,Main Office,765 Delridge Way Sw,NULL,Seattle,Washington,United States,98104
+29599,877,Main Office,4781 Highway 95,NULL,Sandpoint,Idaho,United States,83864
+29617,880,Main Office,S Sound Ctr Suite 25300,NULL,Lacey,Washington,United States,98503
+29532,881,Main Office,Southgate Mall,NULL,Missoula,Montana,United States,59801
+29737,882,Main Office,Medford,NULL,Medford,Oregon,United States,97504
+29742,884,Main Office,Lewis County Mall,NULL,Chehalis,Washington,United States,98532
+30080,885,Main Office,755 Columbia Ctr Blvd,NULL,Kennewick,Washington,United States,99337
+30045,886,Main Office,Lancaster Mall,NULL,Salem,Oregon,United States,97301
+29490,887,Main Office,Lewiston Mall,NULL,Lewiston,Idaho,United States,83501
+30051,888,Main Office,Three Rivers Mall,NULL,Kelso,Washington,United States,98626
+29497,889,Main Office,Eastridge Mall,NULL,Casper,Wyoming,United States,82601
+29588,890,Main Office,Holiday Village Mall,NULL,Great Falls,Montana,United States,59401
+29915,891,Main Office,2526a Tri-Lake Blvd Ne,NULL,Kirkland,Washington,United States,98033
+30004,892,Main Office,Frontier Mall,NULL,Cheyenne,Wyoming,United States,82001
+29502,893,Main Office,White Mountain Mall,NULL,Rock Springs,Wyoming,United States,82901
+29858,894,Main Office,3390 South 23rd St.,NULL,Tacoma,Washington,United States,98403
+29747,895,Main Office,3250 South Meridian,NULL,Puyallup,Washington,United States,98371
+30031,896,Main Office,2255 254th Avenue Se,NULL,Albany,Oregon,United States,97321
+29753,897,Main Office,705 SE Mall Parkway,NULL,Everett,Washington,United States,98201
+30034,898,Main Office,700 Se Sunnyside Road,NULL,Clackamas,Oregon,United States,97015
+29643,899,Main Office,North 93270 Newport Highway,NULL,Spokane,Washington,United States,99202
+29843,901,Main Office,No. 60 Bellis Fair Parkway,NULL,Bellingham,Washington,United States,98225
+30105,902,Main Office,950 Gateway Street,NULL,Springfield,Oregon,United States,97477
+29835,903,Main Office,250775 SW Hillsdale Hwy,NULL,Beaverton,Oregon,United States,97005
+29981,904,Main Office,9905 Three Rivers Drive,NULL,Kelso,Washington,United States,98626
+29719,905,Main Office,225 South 314th Street,NULL,Federal Way,Washington,United States,98003
+29709,906,Main Office,7009 Sw Hall Blvd.,NULL,Tigard,Oregon,United States,97223
+29727,907,Main Office,99295 S.e. Tualatin Valley_hwy.,NULL,Hillsboro,Oregon,United States,97123
+29815,988,Main Office,482505 Warm Springs Blvd.,NULL,Fremont,California,United States,94536
+29638,989,Main Office,39933 Mission Oaks Blvd,NULL,Camarillo,California,United States,93010
+29771,990,Main Office,5420 West 22500 South,NULL,Salt Lake City,Utah,United States,84101
+29809,991,Main Office,60025 Bollinger Canyon Road,NULL,San Ramon,California,United States,94583
+29957,992,Main Office,9992 Whipple Rd,NULL,Union City,California,United States,94587
+29568,993,Main Office,Corporate Office,NULL,El Segundo,California,United States,90245
+29805,994,Main Office,25001 Montague Expressway,NULL,Milpitas,California,United States,95035
+29935,996,Main Office,2575 West 2700 South,NULL,Salt Lake City,Utah,United States,84101
+29799,997,Main Office,70259 West Sunnyview Ave,NULL,Visalia,California,United States,93291
+29929,999,Main Office,Receiving,NULL,Fullerton,California,United States,92831
+29598,1000,Main Office,22555 Paseo De Las Americas,NULL,San Diego,California,United States,92102
+29703,1001,Main Office,Incom Sports Center,NULL,Ontario,California,United States,91764
+29924,1002,Main Office,"C/O Starpak, Inc.",NULL,Greeley,Colorado,United States,80631
+29631,1003,Main Office,5967 W Las Positas Blvd,NULL,Pleasanton,California,United States,94566
+29944,1004,Main Office,25600 E St Andrews Pl,NULL,Santa Ana,California,United States,92701
+29919,1005,Main Office,6756 Mowry,NULL,Newark,California,United States,94560
+30069,1006,Main Office,25472 Marlay Ave,NULL,Fontana,California,United States,92335
+29673,1007,Main Office,77 Beale Street,Room 99767c,San Francisco,California,United States,94109
+29949,1008,Main Office,910 Main Street.,NULL,Sparks,Nevada,United States,89431
+30063,1009,Main Office,2500 N Serene Blvd,19th Floor,El Segundo,California,United States,90245
+29793,1011,Main Office,9700 Sisk Road,NULL,Modesto,California,United States,95354
+29579,1012,Main Office,789 West Alameda,NULL,Westminster,Colorado,United States,80030
+29662,1013,Main Office,54254 Pacific Ave.,NULL,Stockton,California,United States,95202
+29584,1014,Main Office,25136 Jefferson Blvd.,NULL,Culver City,California,United States,90232
+29716,1015,Main Office,99000 S. Avalon Blvd. Suite 750,NULL,Carson,California,United States,90746
+29573,1016,Main Office,72502 Eastern Ave.,NULL,Bell Gardens,California,United States,90201
+29710,1017,Main Office,2560 E. Newlands Dr,NULL,Fernley,Nevada,United States,89408
+29893,1018,Main Office,630 N. Capitol Ave.,NULL,San Jose,California,United States,95112
+29653,1019,Main Office,4660 Rodeo Road,NULL,Santa Fe,New Mexico,United States,87501
+29938,1020,Main Office,251340 E. South St.,NULL,Cerritos,California,United States,90703
+29889,1021,Main Office,440 West Huntington Dr.,NULL,Monrovia,California,United States,91016
+29987,1023,Main Office,870 N. 54th Ave.,NULL,Chandler,Arizona,United States,85225
+29992,1024,Main Office,9952 E. Lohman Ave.,NULL,Las Cruces,New Mexico,United States,88001
+29883,1025,Main Office,2530 South Colorado Blvd.,NULL,Denver,Colorado,United States,80203
+29877,1026,Main Office,955 E. County Line Rd.,NULL,Englewood,Colorado,United States,80110
+29998,1027,Main Office,409 Santa Monica Blvd.,NULL,Santa Monica,California,United States,90401
+30100,1028,Main Office,Mall Of Orange,NULL,Orange,California,United States,92867
+29871,1029,Main Office,Topanga Plaza,NULL,Canoga Park,California,United States,91303
+29560,1030,Main Office,Escondido,NULL,Escondido,California,United States,92025
+30094,1031,Main Office,Natomas Marketplace,NULL,Sacramento,California,United States,95814
+29865,1032,Main Office,Simi @ The Plaza,NULL,Simi Valley,California,United States,93065
+29623,1033,Main Office,Lakewood Mall,NULL,Lakewood,California,United States,90712
+30089,1034,Main Office,Oxnard Outlet,NULL,Oxnard,California,United States,93030
+29781,1035,Main Office,Vista Marketplace,NULL,Alhambra,California,United States,91801
+29690,1036,Main Office,Sports Store At Park City,NULL,Park City,Utah,United States,84098
+30027,1038,Main Office,123 Camelia Avenue,NULL,Oxnard,California,United States,93030
+29696,1039,Main Office,Mountain Square,NULL,Upland,California,United States,91786
+29522,1040,Main Office,Fox Hills,NULL,Culver City,California,United States,90232
+30022,1041,Main Office,Parkway Plaza,NULL,El Cajon,California,United States,92020
+29788,1043,Main Office,Hanford Mall,NULL,Hanford,California,United States,93230
+30116,1044,Main Office,Ontario Mills,NULL,Ontario,California,United States,91764
+29511,1046,Main Office,Rocky Mountain Pines Outlet,NULL,Loveland,Colorado,United States,80537
+30110,1047,Main Office,Stevens Creek Shopping Center,NULL,San Jose,California,United States,95112
+29686,1048,Main Office,Factory Merchants,NULL,Barstow,California,United States,92311
+29525,1049,Main Office,The Citadel Commerce Plaza,NULL,City Of Commerce,California,United States,90040
+29682,1051,Main Office,Pavillion @ Redlands,NULL,Redlands,California,United States,92373
+30056,1052,Main Office,San Diego Factory,NULL,San Ysidro,California,United States,92173
+29901,1053,Main Office,Pacific West Outlet,NULL,Gilroy,California,United States,95020
+29521,1054,Main Office,Belz Factory Outlet,NULL,Las Vegas,Nevada,United States,89106
+29853,1056,Main Office,Lake Elisnor Place,NULL,Lake Elsinore,California,United States,92530
+29660,1058,Main Office,Riverside,NULL,Sherman Oaks,California,United States,91403
+29650,1059,Main Office,The Quad @ WestView,NULL,Whittier,California,United States,90605
+29605,1060,Main Office,Arcadia Crossing,NULL,Phoenix,Arizona,United States,85004
+29531,1061,Main Office,Eastern Beltway Center,NULL,Las Vegas,Nevada,United States,89106
+29733,1062,Main Office,Factory Stores/tucson,NULL,Tucson,Arizona,United States,85701
+29768,1064,Main Office,West Park Plaza,NULL,Irvine,California,United States,92614
+29739,1065,Main Office,Factory Stores Of America,NULL,Mesa,Arizona,United States,85201
+29897,1066,Main Office,Prime Outlets,NULL,Phoenix,Arizona,United States,85004
+29763,1067,Main Office,Bayshore Mall,NULL,Eureka,California,United States,95501
+29744,1068,Main Office,7709 West Virginia Avenue,NULL,Phoenix,Arizona,United States,85004
+29489,1069,Main Office,6900 Sisk Road,NULL,Modesto,California,United States,95354
+29757,1070,Main Office,3250 Baldwin Park Blvd,NULL,Baldwin Park,California,United States,91706
+30047,1071,Main Office,5867 Sunrise Boulevard,NULL,Citrus Heights,California,United States,95610
+29496,1072,Main Office,6500 East Grant Road,NULL,Tucson,Arizona,United States,85701
+29565,1073,Main Office,3065 Santa Margarita Parkway,NULL,Trabuco Canyon,California,United States,92679
+30052,1074,Main Office,9920 Bridgepointe Parkway,NULL,San Mateo,California,United States,94404
+29783,1075,Main Office,5525 South Hover Road,NULL,Longmont,Colorado,United States,80501
+30076,1076,Main Office,8525 South Parker Road,NULL,Parker,Colorado,United States,80138
+30012,1077,Main Office,7505 Laguna Boulevard,NULL,Elk Grove,California,United States,95624
+29784,1078,Main Office,9909 W. Ventura Boulevard,NULL,Camarillo,California,United States,93010
+29914,1079,Main Office,25150 El Camino Real,NULL,San Bruno,California,United States,94066
+29913,1080,Main Office,2575 Rocky Mountain Ave.,NULL,Loveland,Colorado,United States,80537
+29506,1082,Main Office,2551 East Warner Road,NULL,Gilbert,Arizona,United States,85233
+29505,1083,Main Office,22589 West Craig Road,NULL,North Las Vegas,Nevada,United States,89030
+29748,1085,Main Office,49925 Crestview Drive N.E.,NULL,Rio Rancho,New Mexico,United States,87124
+29485,1086,Main Office,57251 Serene Blvd,NULL,Van Nuys,California,United States,91411
+30028,1087,Main Office,253731 West Bell Road,NULL,Surprise,Arizona,United States,85374
+29641,1088,Main Office,99040 California Avenue,NULL,Sand City,California,United States,93955
+30033,1090,Main Office,25130 South State Street,NULL,Sandy,Utah,United States,84070
+29562,1091,Main Office,5500 Grossmont Center Drive,NULL,La Mesa,California,United States,91941
+29847,1092,Main Office,99700 Bell Road,NULL,Auburn,California,United States,95603
+30036,1093,Main Office,7750 E Marching Rd,NULL,Scottsdale,Arizona,United States,85257
+29842,1094,Main Office,25250 N 90th St,NULL,Scottsdale,Arizona,United States,85257
+30040,1095,Main Office,9980 S Alma School Road,NULL,Chandler,Arizona,United States,85225
+29862,1096,Main Office,6753 Howard Hughes Parkway,NULL,Las Vegas,Nevada,United States,89106
+29834,1097,Main Office,Corp Ofc Accts Payable,NULL,El Segundo,California,United States,90245
+29975,1098,Main Office,Po Box 252525,NULL,Santa Ana,California,United States,92701
+30107,1099,Main Office,62500 Neil Road,NULL,Reno,Nevada,United States,89502
+29720,1100,Main Office,4635 S. Harrison Blvd.,NULL,Ogden,Utah,United States,84401
+29826,1101,Main Office,825 W 500 S,NULL,Bountiful,Utah,United States,84010
+29982,1102,Main Office,603 Gellert Blvd,NULL,Daly City,California,United States,94015
+29728,1103,Main Office,2564 S. Redwood Rd.,NULL,Riverton,Utah,United States,84065
+29818,1104,Main Office,9927 N. Main St.,NULL,Tooele,Utah,United States,84074
+29636,1105,Main Office,566 S. Main,NULL,Cedar City,Utah,United States,84720
+29772,11380,Shipping,165 North Main,NULL,Austin,Texas,United States,78701
+29883,11381,Shipping,2000 300th Street,NULL,Denver,Colorado,United States,80203
+29861,11382,Shipping,99 Front Street,NULL,Minneapolis,Minnesota,United States,55402
